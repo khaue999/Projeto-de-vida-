@@ -55,4 +55,4 @@ function comecaCronometro(){
 
 }
 
-comecaCronometro();
+//comecaCronometro();
