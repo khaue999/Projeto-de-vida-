@@ -72,9 +72,11 @@ body {
     padding: 40px;
     border-radius: 0 0 40px 40px;
 }
+
 .aba-conteudo.ativo{
     display:block;
 }
+
 .aba-conteudo{
     display: none;
 }
@@ -83,21 +85,25 @@ body {
     font-size: 28px;
     text-align:  center;
 }
+
 .aba-conteudo-titulo-secundario{
     text-align: center;
 color: var(--verde);
 text-transform: uppercase;
 }
+
 .contador{
     display:flex;
     justify-content: center;
     flex-wrap: wrap;
 }
+
 .contador-digito{
     padding: 0 16px;
     text-align: center;
     min-width: 100px;
 }
+
 .contador-digito-numero{
     font-size: 80px;
     margin: 0;
